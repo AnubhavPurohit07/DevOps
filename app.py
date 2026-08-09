@@ -10,7 +10,7 @@ def home():
     <html>
     <head><title>DevOps Task 1 - Dockerized App</title></head>
     <body style="font-family: sans-serif; text-align:center; margin-top: 60px;">
-        <h1>🐳 Hello from inside a Docker container!</h1>
+        <h1>Hello from inside a Docker container!</h1>
         <p>Container hostname: <b>{hostname}</b></p>
         <p>This confirms the app is running in an isolated container environment.</p>
     </body>
